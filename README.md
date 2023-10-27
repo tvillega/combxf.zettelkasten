@@ -6,7 +6,7 @@ Comunidad de Beauchef enfocada en esparcir el conocimiento de programas de códi
 
 ## Objetivos
 
-### 1. Ayudar a estudiantes de primer año DCC.
+### 1. Ayudar a estudiantes de primer año DCC
 
 Utilizar una computadora como herramienta de trabajo requiere entender cómo administrarla adecuadamente.
 
@@ -21,7 +21,7 @@ Todas las preguntas anteriores son válidas y corresponden a diferentes habilida
 
 Es nuestro objetivo núcleo poder encaminar las respuestas a estas preguntas y nivelar a quienes lo necesiten para que puedan resolver adecuadamente sus tareas en los cursos DCC.
 
-### 2. Proveer guías y tutoriales para principiantes absolutos.
+### 2. Proveer guías y tutoriales para principiantes absolutos
 
 El conocimiento escrito es parte fundamental del aprendizaje.
 
@@ -33,7 +33,7 @@ Los manuales oficiales están en inglés, se encuentran disponibles en la intern
 
 Este sitio está construido con Markdown y Wikilinks.
 
-### 3. Mantener el profesionalismo.
+### 3. Mantener el profesionalismo
 
 La comunidad global de FOSS sigue un conjunto de estándares que permite el libre flujo de información técnica. Estos se verán reflejados en el material técnico escrito para la comunidad.
 
@@ -53,4 +53,4 @@ Las guías técnicas son escritas en español neutro, pero no se traducirá la t
 
 ¿Te interesa formar parte?
 
-Revisa la [[broken link|lista de compromisos]] y haznos saber!
+Revisa la [lista de compromisos](CONTRACT.md) y haznos saber!
