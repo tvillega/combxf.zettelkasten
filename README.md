@@ -2,7 +2,7 @@
 
 Comunidad de Beauchef enfocada en esparcir el conocimiento de programas de código abierto.
 
-[[PROSPECT|Declaración de principios]].
+[Declaración de principios](PROSPECT.md).
 
 ## Objetivos
 
