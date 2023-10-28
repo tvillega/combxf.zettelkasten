@@ -53,4 +53,4 @@ Las guías técnicas son escritas en español neutro, pero no se traducirá la t
 
 ¿Te interesa formar parte?
 
-Revisa la [lista de compromisos](CONTRACT.md) y haznos saber!
+¡Revisa los [lineamientos de contribución](CONTRACT.md) y haznos saber!

@@ -1,0 +1,2 @@
+# Lineamientos de contribución
+

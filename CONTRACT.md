@@ -1,3 +1,0 @@
-# Compromisos
-
-1. 
